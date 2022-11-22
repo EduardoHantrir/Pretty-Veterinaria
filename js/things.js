@@ -1,4 +1,4 @@
 
-function texto() {
-    let texto = 
+function button() {
+    let texto = document.getElementById("mytext").Value;
 }
